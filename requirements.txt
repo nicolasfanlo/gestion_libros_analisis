@@ -1,0 +1,2 @@
+# No se requieren librerías externas.
+# El proyecto funciona solo con la biblioteca estándar de Python.
